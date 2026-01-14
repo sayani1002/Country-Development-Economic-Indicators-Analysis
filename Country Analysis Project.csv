@@ -1,0 +1,9 @@
+"Country";"Population";"GDPPerCapita";"Country_Type";"Economy";"GDP_Growth";"Inflation";"Unemployment";"Participation"
+"China";1424381924;13806;"Developing";"Mixed";5.0;0.9;5.1;66.0
+"India";1454606724;2818;"Developing";"Mixed";6.2;4.4;5.2;55.8
+"Japan";121960408;34713;"Highly Developed";"Mixed";0.6;2.0;2.6;64.2
+"South Africa";61020221;6667;"Developing";"Mixed";1.2;3.6;31.9;60.0
+"South Korea";51690479;35962;"Highly Developed";"Mixed";1.8;1.9;2.5;71.8
+"UAE";9665319;51348;"Developed";"Mixed";5.0;2.0;2.2;81.4
+"UK";68180606;56661;"Highly Developed";"Mixed";1.3;2.0;4.7;79.0
+"USA";343603404;89599;"Developed";"Mixed";2.1;2.2;4.1;62.5
